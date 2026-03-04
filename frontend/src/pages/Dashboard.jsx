@@ -501,9 +501,9 @@ export default function Dashboard() {
 
          <Section title="Monthly Target">
           
-<div className="text-sm flex gap-x-41">
-  <span>Expense Target</span>
+<div className="text-sm flex gap-x-33">
   <span>Income Target</span>
+  <span>Expense Target</span>
 </div>
 
 

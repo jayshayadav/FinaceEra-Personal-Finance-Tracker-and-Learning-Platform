@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # FinanceEra – Personal Finance Tracker & Learning Platform
 
@@ -122,3 +123,6 @@ If you like this project, please **give it a star on GitHub ⭐**.
 It motivates me to build more useful projects.
 
 ---
+=======
+# FinaceEra-Personal-Finance-Tracker-and-Learning-Platform
+>>>>>>> 818b53b (Initial commit)
